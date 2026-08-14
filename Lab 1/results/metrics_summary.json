@@ -1,0 +1,28 @@
+[
+  {
+    "metric": "euclidean",
+    "genuine_count": 500,
+    "impostor_count": 49500,
+    "genuine_mean": 291.6160469527521,
+    "genuine_std": 135.59539732263673,
+    "impostor_mean": 703.8227764410127,
+    "impostor_std": 301.79484777480127,
+    "eer": 0.11496969696969697,
+    "eer_percent": 11.496969696969698,
+    "eer_threshold": 429.86259214318426,
+    "decidability_index": 1.7619353587108937
+  },
+  {
+    "metric": "cosine",
+    "genuine_count": 500,
+    "impostor_count": 49500,
+    "genuine_mean": 0.989501168181278,
+    "genuine_std": 0.0109678788610495,
+    "impostor_mean": 0.9603761712110512,
+    "impostor_std": 0.018366674241932467,
+    "eer": 0.0842222222222222,
+    "eer_percent": 8.42222222222222,
+    "eer_threshold": 0.9789829096289662,
+    "decidability_index": 1.925413778186122
+  }
+]
